@@ -25,7 +25,7 @@ This is a simple **C++ program** that calculates a student's average score based
 ## 📸 Screenshot of the Code
 ![alt text](https://github.com/spyware-v2/If-else-function/blob/main/code%20ss.png?raw=true)
 
-To copy the code, click this link: [💾 Download FUNCTIONS.cpp](https://github.com/spyware-v2/If-else-function/blob/main/FUNCTIONS.cpp)
+## To copy the code, click this link: [💾 Download IF-ELSE FUNCTIONS.cpp](https://github.com/spyware-v2/If-else-function/blob/main/FUNCTIONS.cpp)
 
 ---
 
