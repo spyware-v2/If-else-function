@@ -22,6 +22,11 @@ This is a simple **C++ program** that calculates a student's average score based
 
 ---
 
+## 📸 Screenshot of the Code
+![alt text](https://github.com/spyware-v2/If-else-function/blob/main/code%20ss.png?raw=true)
+
+---
+
 ## 🚀 How It Works  
 1. **Input Section**:  
    - The user provides their details and scores.  
